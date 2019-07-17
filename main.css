@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 html,h1,h2,h3,h4,h5,h6,a{
-    font-family: "monospace";
+    font-family: sans-serif;
    }
 
 body{
     margin: 0px;
     background-color: #1bbc9b;
-    font-weight: 2rem;
 }
 
 div{
